@@ -1,1 +1,2 @@
 # odin-recipes
+It's high time i put in work what i learned so far. For this project i will be building a basic recipe website. The website will consist of a main index page which will have links to a few recipes. let's go!
